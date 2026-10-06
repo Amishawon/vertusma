@@ -1,0 +1,2 @@
+# This WSGI application uses only the Python standard library.
+# No pip packages are required.
